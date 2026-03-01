@@ -7,13 +7,13 @@ import mc_remote.particle_id as particle
 
 
 PLAYER_NAME = "Bananadaizin"  # set your player name in Minecraft
-PLAYER_ORIGIN = Vec3(0, 100, 0)  # PO.x, PO.y, PO.z
+PLAYER_ORIGIN = Vec3(2000, 0, 2000)  # PO.x, PO.y, PO.z
 print(f"param_mc_remote loaded for {PLAYER_NAME} at {PLAYER_ORIGIN.x}, {PLAYER_ORIGIN.y}, {PLAYER_ORIGIN.z}")
 
 # minecraft remote connection to the host at address:port
 # ADRS_MCR = "localhost"  # Minecraft server running on your pc
-ADRS_MCR = "localhost"  # mc-remote sandbox server
-PORT_MCR = 25575  # socket server port
+ADRS_MCR = "mc-remote.xgames.jp"  # mc-remote.xgames.jp
+PORT_MCR = 25575  # 25575
 
 # vertical levels in Minecraft 1.20+
 Y_TOP = 320  # the top where blocks can be set
