@@ -5,17 +5,17 @@
 ---
 
 ## 説明
-### pygameを使って、扇風機をつくることにプラスして大きさや作る位置を変えれるようにする
+### pygameを使って、マイクラ世界に扇風機をつくることにプラスして大きさや作る位置を変えれるようにする
 
 ---
 
 ## pygameの画面
-![alt text](images/image.png)
+![images/image2.png](images/image.png)
 
 --
 
 ## 数値を変えている様子
-<video controls src="suuti.mp4" title="Title"></video>
+<video controls src="videos/suuti.mp4" title="Title"></video>
 
 --
 
@@ -25,4 +25,15 @@
 ---
 
 ## 実際に作ってみる!
+### scale1
 ![images/image2.png](images/image2.png)
+
+--
+
+### scale2
+![images/image2.png](images/image3.png)
+
+--
+
+## 並べてみる
+![images/image2.png](images/image4.png)
